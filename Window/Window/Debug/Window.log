@@ -1,0 +1,16 @@
+﻿  Windows_32_platform.cpp
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Utilities.cpp(17,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Utilities.cpp(18,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Windows_32_platform.cpp(8,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Windows_32_platform.cpp(17,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Renderer.cpp(3,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Renderer.cpp(4,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Renderer.cpp(13,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Renderer.cpp(28,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Renderer.cpp(38,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\JGame.cpp(5,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\AGame.cpp(11,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\AGame.cpp(14,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\AGame.cpp(15,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aston\OneDrive\Websites\OLD\Window\Window\Windows_32_platform.cpp(61,5): warning C4007: 'WinMain': must be '__stdcall'
+  Window.vcxproj -> C:\Users\aston\OneDrive\Websites\OLD\Window\Debug\Window.exe
