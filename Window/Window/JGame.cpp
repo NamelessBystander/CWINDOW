@@ -3,5 +3,5 @@
 #define released(b) (!input->buttons[b].is_down && input->buttons[b].changed)
 
 internal void Simulate_Game2(Input* input, float time) {
-	//Aston is a stinky
+	//Aston is a stinky poo
 }
