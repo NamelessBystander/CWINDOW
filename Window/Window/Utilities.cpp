@@ -18,6 +18,7 @@ inline void normalize(int x, int y) {
         y = y / len;
     }
 }
+// last test
 #define global_variable static;
 #define internal static;
 
